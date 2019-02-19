@@ -5,7 +5,11 @@ import java.io.Serializable;
 import org.springframework.boot.context.properties.ConfigurationProperties;
 import org.springframework.context.annotation.PropertySource;
 import org.springframework.stereotype.Component;
-
+/**
+ * 公司类
+ * @author Administrator
+ *
+ */
 @Component
 @ConfigurationProperties(prefix="gezhi")
 @PropertySource(value= {"classpath:company.properties"})
