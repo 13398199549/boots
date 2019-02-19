@@ -2,7 +2,7 @@ package com.gezhi.springboot.bean;
 
 import java.io.Serializable;
 /**
- * 响应对象
+ * 响应对象1
  * @author Administrator
  *
  */
