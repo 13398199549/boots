@@ -20,7 +20,7 @@ public class CompanyBean implements Serializable {
 	 */
 	private static final long serialVersionUID = 4349552945449301902L;
 	/**
-	 * 公司名称
+	 * 公司名称1
 	 */
 	private String companyName;
 	/**
